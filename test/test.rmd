@@ -1,0 +1,342 @@
+---
+title: "Data and Code Ledger"
+author: "Matt Lavin"
+date: "2-23-2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data and Code Ledger for DA 101
+
+This is an R Markdown document. Please fill in all example text with your own words and definitions. For each function in the your ledger, you should show your code. If you need extra code to do some data wrangling or bring in a new library, please hide it from the rendered html. Each term should have: 
+ (1) what package does it come from?
+ (2) general definition - what does the function do and for what kind of tasks/situations would you use it?
+ (3) worked example, using your own data set, or one of the example data sets from an R package
+ (4) text below the example that explains specifically, what the code accomplished. In other words, what was the input and the output? What can you do now that you have run the example that you couldn't before?
+ 
+### Load useful datasets
+
+```{r setup2, include=FALSE}
+# add flights data to environment
+library(nycflights13)
+# add diamonds and mpg data to environment
+library(tidyverse)
+
+flights <- flights
+diamonds <- diamonds
+mpg <- mpg
+
+# HINT: check out other data sets in ggplot2 such as economics, midwest, seals, and faithfuld. They might be useful for the tasks below.
+
+```
+
+### Data Wrangling
+
+```{r, histogram, echo=TRUE}
+
+# a comment
+
+ggplot(flights) + geom_histogram(aes(x=dep_delay), bins=150) + labs(title="Histogram of Departure Delays") 
+```
+
+#### 1. Compare and contrast `summary`, `str`, and `glimpse`
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+flights_new <- as.data.frame(filter(flights, dep_time > 800))
+flights_new
+```
+
+Explanation: 
+
+---
+
+#### 2. Demonstrate each of the main `dplyr` verbs
+**`select`**
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+**`arrange`**
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+**`filter`** 
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+
+**`mutate`** 
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+
+**`group_by`**
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+
+**`summarize`**
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+#### 3. Remove NAs from a data frame or from a column
+
+**`function_name`**
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+#### 4. Use conditional statements to manipulate a dataframe
+**`ifelse`**
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+#### 5. Bring multiple datasets together by stacking them
+**`rbind`**
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+#### 6. Bring multiple datasets together using `merge` and/or `join`
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+#### 7. Use Regular Expressions to manipulate data
+**`function_name`**
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+#### 8. Transform and work with datetime values
+**`function_name`**
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+#### 9. Write your own function to automate a task
+**`function`**
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+
+
+### Polished Data Visualization
+
+#### 10. Histogram
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+#### 11. Bar plot
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+#### 12. Box plot
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+#### 13. Scatter plot
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+---
+
+#### 14. Line plot
+
+Package: 
+
+Definition: 
+
+Code example:
+```{r}
+
+```
+
+Explanation: 
+
+
