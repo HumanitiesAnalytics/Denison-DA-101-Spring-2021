@@ -55,7 +55,7 @@ If you have used Github before, you will be able to clone the repository to your
 |Lab Week 2: Invasive Species Part 1   |  NA ... Notebowl |
 |Lab Week 3: Collecting and Coding Data | NA ... Notebowl |
 |Lab Week 4: Data and Code Ledger Submission 1 |  NA ... Notebowl |
-|Lab Week 5: Invasive Species Part 2 | []()|
+|Lab Week 5: Invasive Species Part 2 | [https://classroom.github.com/g/2zmwcmWJ](https://classroom.github.com/g/2zmwcmWJ)|
 |Lab Week 6: Substance Use | Link Will Go Here |
 |Lab Week 7: Data and Code Ledger Submission 2 (No Lab This Week) | Link Will Go Here |
 |Lab Week 8: Audiobooks | Link Will Go Here |
