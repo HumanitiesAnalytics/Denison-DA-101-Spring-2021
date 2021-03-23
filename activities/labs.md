@@ -2,6 +2,25 @@
 
 To complete each lab assignment (individual or team) you will need a Github account, and you will need access to our Github Classroom, which I will provide once I have your Github username. Once you have access, you'll be able to click on the links below and create a Github repository cloned from the "starter code" I have provided in each lab repository. In each repository, you will find a `readme.md` file with instructions, as well as additional files and folders, such as any data sets needed to complete the lab. There will always be a file called `submission.r`, `submission.rmd`, or `submission.md`. 
 
+## Links to Individual Labs
+
+|Lab                              | Github Classroom Link                     |
+|---------------------------------|-------------------------------------------|
+|Lab Week 1: Installations, Introductions             |  NA ... Notebowl  |
+|Lab Week 2: Invasive Species Part 1   |  NA ... Notebowl |
+|Lab Week 3: Collecting and Coding Data | NA ... Notebowl |
+|Lab Week 4: Data and Code Ledger Submission 1 |  NA ... Notebowl |
+|Lab Week 5: Invasive Species Part 2 | [https://classroom.github.com/g/2zmwcmWJ](https://classroom.github.com/g/2zmwcmWJ)|
+|Lab Week 6: Substance Use | (No Lab to Turn In) |
+|Lab Week 7: Data and Code Ledger Submission 2 (No Lab This Week) | [https://classroom.github.com/a/3Xz3HCnv](https://classroom.github.com/a/3Xz3HCnv) |
+|Lab Week 8: Audiobooks | [https://classroom.github.com/g/6OGNYx8P](https://classroom.github.com/g/6OGNYx8P) |
+|Lab Week 9: Congressional Representation pt 1 | Link Will Go Here |
+|Lab Week 10: Congressional Representation pt 2 | Link Will Go Here |
+|Lab Week 11: Data and Code Ledger Submission 3 | [https://classroom.github.com/a/3Xz3HCnv](https://classroom.github.com/a/3Xz3HCnv) |
+|Lab Week 12: Authorship attribution | Link Will Go Here |
+|Lab Week 13: Oral Presentations for Final Projects | NA |
+|Lab Week 14: Oral Presentations for Final Projects | NA |
+
 ## General Instructions
 
 1. Click on on the Github Classroom Link for This Week's Lab
@@ -49,23 +68,6 @@ These instructions have several steps, but each one is relatively easy, and I pr
 
 ## Command Line Github 
 
-If you have used Github before, you will be able to clone the repository to your desktop, make changes, commit, and push much like you would with a normal Github repository, with a couple of minor exceptions that I am happy to help you learn. If you haven't used Github before, you can write your code in RStudio and then copy/paste it to the submission file. Once your work is complete
+If you have used Github before, you will be able to clone the repository to your desktop, make changes, commit, and push much like you would with a normal Github repository, with a couple of minor exceptions that I am happy to help you learn. If you haven't used Github before, you can write your code in RStudio and then copy/paste it to the submission file or create your file in RStudio, save it, and upload it to Github. 
 
-## Links to Individual Labs
 
-|Lab                              | Github Classroom Link                     |
-|---------------------------------|-------------------------------------------|
-|Lab Week 1: Installations, Introductions             |  NA ... Notebowl  |
-|Lab Week 2: Invasive Species Part 1   |  NA ... Notebowl |
-|Lab Week 3: Collecting and Coding Data | NA ... Notebowl |
-|Lab Week 4: Data and Code Ledger Submission 1 |  NA ... Notebowl |
-|Lab Week 5: Invasive Species Part 2 | [https://classroom.github.com/g/2zmwcmWJ](https://classroom.github.com/g/2zmwcmWJ)|
-|Lab Week 6: Substance Use | Link Will Go Here |
-|Lab Week 7: Data and Code Ledger Submission 2 (No Lab This Week) | Link Will Go Here |
-|Lab Week 8: Audiobooks | Link Will Go Here |
-|Lab Week 9: Congressional Representation pt 1 | Link Will Go Here |
-|Lab Week 10: Congressional Representation pt 2 | Link Will Go Here |
-|Lab Week 11: Data and Code Ledger Submission 3 | Link Will Go Here |
-|Lab Week 12: Authorship attribution | Link Will Go Here |
-|Lab Week 13: Oral Presentations for Final Projects | NA |
-|Lab Week 14: Oral Presentations for Final Projects | NA |
