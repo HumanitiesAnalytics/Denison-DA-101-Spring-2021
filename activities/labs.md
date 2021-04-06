@@ -14,8 +14,8 @@ To complete each lab assignment (individual or team) you will need a Github acco
 |Lab Week 6: Substance Use | (No Lab to Turn In) |
 |Lab Week 7: Data and Code Ledger Submission 2 (No Lab This Week) | [https://classroom.github.com/a/3Xz3HCnv](https://classroom.github.com/a/3Xz3HCnv) |
 |Lab Week 8: Audiobooks | [https://classroom.github.com/g/6OGNYx8P](https://classroom.github.com/g/6OGNYx8P) |
-|Lab Week 9: Congressional Representation pt 1 | Link Will Go Here |
-|Lab Week 10: Congressional Representation pt 2 | Link Will Go Here |
+|Lab Week 9: Congressional Representation pt 1 | NA |
+|Lab Week 10: Congressional Representation pt 2 | [https://classroom.github.com/g/kluDaOS1](https://classroom.github.com/g/kluDaOS1) |
 |Lab Week 11: Data and Code Ledger Submission 3 | [https://classroom.github.com/a/3Xz3HCnv](https://classroom.github.com/a/3Xz3HCnv) |
 |Lab Week 12: Authorship attribution | Link Will Go Here |
 |Lab Week 13: Oral Presentations for Final Projects | NA |
