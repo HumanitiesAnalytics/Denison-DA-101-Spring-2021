@@ -17,7 +17,7 @@ To complete each lab assignment (individual or team) you will need a Github acco
 |Lab Week 9: Congressional Representation pt 1 | NA |
 |Lab Week 10: Congressional Representation pt 2 | [https://classroom.github.com/g/kluDaOS1](https://classroom.github.com/g/kluDaOS1) |
 |Lab Week 11: Data and Code Ledger Submission 3 | [https://classroom.github.com/a/3Xz3HCnv](https://classroom.github.com/a/3Xz3HCnv) |
-|Lab Week 12: Authorship attribution | Link Will Go Here |
+|Lab Week 12: Authorship attribution | [https://classroom.github.com/g/t0PMqK8Z](https://classroom.github.com/g/t0PMqK8Z) |
 |Lab Week 13: Oral Presentations for Final Projects | NA |
 |Lab Week 14: Oral Presentations for Final Projects | NA |
 
